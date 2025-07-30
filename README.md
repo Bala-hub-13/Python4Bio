@@ -6,7 +6,7 @@ This repo is for anyone who:
 - Knows what DNA is but not how to *code* with it
 - Wants to learn bioinformatics the slow, careful way (step-by-step, with comments)
 - Needs working examples of things like GC content, transcription, reverse complements.
-#### Basically, Me!
+#### Basically, Me! I just want to see all the broken code versions and sigh!
 
 If you're expecting machine learning pipelines or genome assembly wizardry, you've taken a wrong turn.
 
