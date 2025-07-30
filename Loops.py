@@ -1,0 +1,10 @@
+while True:
+    n = int(input("What is X?"))
+    if n < 0:
+        print("X must be a non-negative integer.")
+        continue
+    else:
+     break
+for _ in range(n):
+   print("wow \n",end="") 
+
