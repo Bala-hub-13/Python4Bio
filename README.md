@@ -15,6 +15,5 @@ I created **Python4Bio** as a way to learn and think through biological coding p
 - Written in logical, small chunks
 - Designed to be hackable and tweakable for learning(No to packages- when you're starting out)
 
-If you like slow, thoughtful code that builds up piece by piece — like LEGO for bio nerds — this is the place.
 #### Basically, I just wanted to see all the broken code versions and sigh!
 ---
