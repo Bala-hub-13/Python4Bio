@@ -5,7 +5,7 @@ Welcome to **Python4Bio**, a collection of small, beginner-friendly bioinformati
 This repo is for anyone who:
 - Knows what DNA is but not how to *code* with it
 - Wants to learn bioinformatics the slow, careful way (step-by-step, with comments)
-- Needs working examples of things like GC content, transcription, reverse complements — with lots of helpful thinking along the way
+- Needs working examples of things like GC content, transcription, reverse complements.
 
 If you're expecting machine learning pipelines or genome assembly wizardry, you've taken a wrong turn.
 
