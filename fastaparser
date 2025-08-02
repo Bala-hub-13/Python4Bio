@@ -1,0 +1,9 @@
+import fastaparser
+with open("/home/bm/Downloads/sequence.fasta") as fasta_file:
+    parser = fastaparser.Reader(fasta_file)
+    for seq in parser:
+            # seq is a FastaSequence object
+            print('ID:', seq.id)
+            print('Description:', seq.description)
+            print('Sequence:', seq.sequence_as_string())
+            print()

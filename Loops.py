@@ -1,5 +1,9 @@
 while True:
-    n = int(input("What is X?"))
+    try:
+        n = int(input("What is X?"))
+    except ValueError:
+        print("X must be an integer.")
+        continue
     if n < 0:
         print("X must be a non-negative integer.")
         continue
